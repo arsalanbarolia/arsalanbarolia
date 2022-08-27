@@ -13,11 +13,11 @@ I am always on the lookout for new projects to work on and new people to collabo
 ### Connect with me:
 
 [![website](./img/globe-dark.svg)](https://arsalanbarolia.com/)
-&nbsp;&nbsp;
-[![website](./img/github-dark.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![website](./img/github-dark.svg)](https://github.com/arsalanbarolia)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arsalanbarolia/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
